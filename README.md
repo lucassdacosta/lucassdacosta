@@ -1,16 +1,39 @@
-## Hi there 👋
+Lucas Costa
+Desenvolvedor Full Stack
 
-<!--
-**lucassdacosta/lucassdacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Lucas Costa
 
-Here are some ideas to get you started:
+💻 Desenvolvedor focado em Front-end e Full Stack
+🚀 Construindo aplicações modernas e eficientes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────
+
+🛠️ Tecnologias
+
+Frontend
+React · TypeScript · JavaScript · Tailwind CSS
+
+Backend
+Node.js · Fastify · PostgreSQL
+
+Ferramentas
+Git · GitHub · Docker
+
+────────────────────────────
+
+📌 Projetos em destaque
+
+Projeto 1
+Breve descrição
+
+Projeto 2
+Breve descrição
+
+Projeto 3
+Breve descrição
+
+────────────────────────────
+
+📫 Contato
+
+LinkedIn · Email · Portfólio
