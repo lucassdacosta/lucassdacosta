@@ -1,39 +1,87 @@
+<div align="center">
+
 # Lucas Costa
 
 ### Desenvolvedor Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simoesdacostalucas/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:simoesdacostalucas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](SEU_PORTFOLIO)
+Desenvolvedor focado em Front-end e Full Stack,
+construindo aplicações modernas, eficientes e escaláveis.
+
+<br>
+
+<a href="https://www.linkedin.com/in/simoesdacostalucas/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:simoesdacostalucas@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="SEU_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-👋 Olá! Eu sou Lucas Costa.
+## 👨‍💻 Sobre mim
 
-💻 Desenvolvedor focado em Front-end e Full Stack  
-🚀 Construindo aplicações modernas e eficientes.
+Sou desenvolvedor de software com foco em desenvolvimento **Front-end e Full Stack**.
+
+Tenho interesse em construir aplicações que unam uma boa experiência de usuário, código organizado e soluções eficientes.
+
+Atualmente, venho aprofundando meus conhecimentos em desenvolvimento Full Stack, explorando tecnologias modernas do ecossistema JavaScript/TypeScript.
 
 ---
+
+<div align="center">
 
 ## 💻 Front-end
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 
-## ⚙️ Back-end e banco de dados
+<br><br>
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)](https://fastify.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+## ⚙️ Back-end & Banco de Dados
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+
+<br><br>
 
 ## 🛠️ Ferramentas
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
+</div>
 
 ---
+
+## 🚀 Projetos
+
+Aqui estão alguns dos projetos que desenvolvi para colocar em prática meus conhecimentos e explorar novas tecnologias.
+
+> 🔨 Novos projetos serão adicionados em breve.
+
+---
+
+<div align="center">
+
+### 📫 Vamos conversar?
+
+Estou aberto a oportunidades, projetos e conexões na área de desenvolvimento de software.
+
+<br>
+
+<a href="https://www.linkedin.com/in/simoesdacostalucas/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
