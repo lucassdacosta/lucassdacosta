@@ -37,14 +37,3 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
-
-## 📌 Projetos em destaque
-
-### 🔹 Projeto 1
-Breve descrição do projeto.
-
-### 🔹 Projeto 2
-Breve descrição do projeto.
-
-### 🔹 Projeto 3
-Breve descrição do projeto.
