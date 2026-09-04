@@ -3,10 +3,6 @@
 # Lucas Costa
 
 ### Desenvolvedor Full Stack
-
-Desenvolvedor focado em Front-end e Full Stack,
-construindo aplicações modernas, eficientes e escaláveis.
-
 <br>
 
 <a href="https://www.linkedin.com/in/simoesdacostalucas/">
@@ -48,9 +44,4 @@ construindo aplicações modernas, eficientes e escaláveis.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/simoesdacostalucas/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
