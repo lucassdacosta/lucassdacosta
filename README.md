@@ -62,16 +62,6 @@ Atualmente, venho aprofundando meus conhecimentos em desenvolvimento Full Stack,
 
 </div>
 
----
-
-## 🚀 Projetos
-
-Aqui estão alguns dos projetos que desenvolvi para colocar em prática meus conhecimentos e explorar novas tecnologias.
-
-> 🔨 Novos projetos serão adicionados em breve.
-
----
-
 <div align="center">
 
 ### 📫 Vamos conversar?
