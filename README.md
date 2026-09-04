@@ -24,13 +24,9 @@ construindo aplicações modernas, eficientes e escaláveis.
 ---
 
 ## 👨‍💻 Sobre mim
-
-Sou desenvolvedor de software com foco em desenvolvimento **Front-end e Full Stack**.
-
-Tenho interesse em construir aplicações que unam uma boa experiência de usuário, código organizado e soluções eficientes.
-
-Atualmente, venho aprofundando meus conhecimentos em desenvolvimento Full Stack, explorando tecnologias modernas do ecossistema JavaScript/TypeScript.
-
+- Marília-SP
+- +2 anos de experiência
+- Front-end e Full-stack
 ---
 
 <div align="center">
