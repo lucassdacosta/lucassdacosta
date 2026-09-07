@@ -17,13 +17,12 @@
 
 </div>
 
----
-
-## 👨‍💻 Sobre mim
-- Marília-SP
-- +2 anos de experiência
-- Front-end e Full-stack
----
+- 💻 Desenvolvedor Web
+- 📍 Marília-SP
+- 📈 +2 anos de experiência
+- 🧩 Front-end e Full-stack
+- 🛠️ React, typescript e nodeJs
+- 🚀 Desenvolvimento, criatividade e empreendedorismo
 
 <div align="center">
 
