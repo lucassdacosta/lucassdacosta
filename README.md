@@ -11,7 +11,7 @@
 <a href="mailto:simoesdacostalucas@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="SEU_PORTFOLIO">
+<a href="https://lucassdacosta.github.io/portfolio/#home">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
 </a>
 
